@@ -8,7 +8,7 @@ requirements: python 3.11 [by using "install now" option in the installer] (if h
 
 2- now in the window write "python crackNT.py"
 
-3- enter your hash (needs to be NT)
+3- enter your hash (needs to be NTLM)
 
 4- enter your wordlist/password list
 
